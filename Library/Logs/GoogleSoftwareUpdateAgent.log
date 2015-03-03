@@ -1,0 +1,12 @@
+2015-03-03 08:43:50.968 GoogleSoftwareUpdateAgent[24303/0xa07701d4] [lvl=2] -[KSAgentApp setupLoggerOutput] Agent settings: <KSAgentSettings:0x318cd0 bundleID=com.google.Keystone.Agent lastCheck=(null) checkInterval=18000.000000 uiDisplayInterval=604800.000000 sleepInterval=1800.000000 jitterInterval=900 maxRunInterval=0.000000 isConsoleUser=1 ticketStorePath=/Users/Guest/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode=3 daemonUpdateEngineBrokerServiceName=com.google.Keystone.Daemon.UpdateEngine daemonAdministrationServiceName=com.google.Keystone.Daemon.Administration logEverything=0 logBufferSize=2048 alwaysPromptForUpdates=0 productIDToUpdate=(null) lastUIDisplayed=(null) lastCheck=(null) alwaysShowStatusItem=0 updateCheckTag=(null) printResults=NO userInitiated=NO>
+2015-03-03 08:47:54.141 GoogleSoftwareUpdateAgent[24303/0xb0219000] [lvl=2] -[KSUpdateEngine updateAllProducts] KSUpdateEngine updating all installed products.
+2015-03-03 08:47:54.141 GoogleSoftwareUpdateAgent[24303/0xb0219000] [lvl=2] -[KSUpdateEngine(PrivateMethods) updateFinish] KSUpdateEngine update processing complete.
+2015-03-03 08:49:54.164 GoogleSoftwareUpdateAgent[24303/0xb0219000] [lvl=3] -[KSAgentUploader fetcher:failedWithError:] Failed to upload stats to <NSMutableURLRequest https://tools.google.com/service/update2> with error Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x4122f0 {NSErrorFailingURLStringKey=https://tools.google.com/service/update2, NSErrorFailingURLKey=https://tools.google.com/service/update2, NSLocalizedDescription=The request timed out., NSUnderlyingError=0x23ed80 "The request timed out."}
+2015-03-03 08:49:54.164 GoogleSoftwareUpdateAgent[24303/0xb0219000] [lvl=3] -[KSAgentApp uploadStats:] Failed to upload stats <KSStatsCollection:0x218630 path="/Users/Guest/Library/Google/GoogleSoftwareUpdate/Stats/Keystone.stats", count=6, stats={
+    checks = 2;
+    failedchecks = 2;
+    tickets = 2;
+    usertickets = 0;
+    validtickets = 2;
+    validusertickets = 0;
+}>

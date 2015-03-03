@@ -1,0 +1,494 @@
+Mar  3 08:43:40 epicodus-104.local otherbsd[24252] <Error>: Failed to bootstrap agent: path = /Users/Guest/Library/LaunchAgents, error = 2: No such file or directory
+Mar  3 08:43:40 epicodus-104.local otherbsd[24252] <Error>: Could not copy LoginItems URL.
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Debug>: PrinterMonitor: myAddRef:0x7fc248735890 (1)
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Debug>: PrinterMonitor: myRelease:0x7fc248735890 (2)
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Debug>: PrinterMonitor: myInstance:0x7fc248735890
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Debug>: PrinterMonitor: printer_added (1)
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Debug>: PrinterMonitor: remove_printer (1)
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Debug>: PrinterMonitor: registeringForNotification:0x7fc248735890...
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Debug>: processNetworkInterface() failed, no interface type
+Mar  3 08:43:41 --- last message repeated 1 time ---
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Error>: Failed to copy info dictionary for bundle /System/Library/UserEventPlugins/alfUIplugin.plugin
+Mar  3 08:43:41 epicodus-104.local UserAccountUpdater[24254] <Info>: Apple Upgrade: NO
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Notice>: user agent networkd: built Nov 19 2014 21:39:47
+Mar  3 08:43:41 epicodus-104.local UserEventAgent[24251] <Error>: received an unknown event from daemon
+Mar  3 08:43:42 epicodus-104.local UserEventAgent[24251] <Info>: locationd started
+Mar  3 08:43:42 epicodus-104.local pboard[24258] <Warning>: Attempt to unlink previous shared memory during startup returned an error.  Continuing...
+Mar  3 08:43:42 epicodus-104.local compatchecker[24259] <Error>: Loading incompatible app list from: /System/Library/PrivateFrameworks/SystemMigration.framework/Resources/MigrationIncompatibleApplicationsList.plist
+Mar  3 08:43:42 epicodus-104.local compatchecker[24259] <Error>: Parsing incompatible app list version: 10.10.120
+Mar  3 08:43:42 epicodus-104.local UserAccountUpdater[24254] <Info>: FixupMacBuddyWrittenPrefs 1
+Mar  3 08:43:42 epicodus-104.local UserAccountUpdater[24254] <Error>: Launching keychain migrator
+Mar  3 08:43:42 epicodus-104.local KeychainMigrator[24261] <Warning>: STARTING editKeyACLs
+Mar  3 08:43:42 epicodus-104.local KeychainMigrator[24261] <Warning>: ENDING editKeyACLs
+Mar  3 08:43:42 epicodus-104.local KeychainMigrator[24261] <Warning>: Migration complete, error count=0
+Mar  3 08:43:42 epicodus-104.local iCloudAccountsMigrator[24262] <Warning>: iCloudAccountMigrator: Initiating migrate accounts: V: 0, D: 0
+Mar  3 08:43:43 epicodus-104.local UserAccountUpdater[24254] <Error>: Blocking completion of UAU on keychain migrator
+Mar  3 08:43:43 epicodus-104.local UserAccountUpdater[24254] <Debug>: CoreServices logging is enabled,
+Mar  3 08:43:43 epicodus-104.local UserAccountUpdater[24254] <Notice>: SFL Favorites initialized.
+Mar  3 08:43:43 epicodus-104.local iCloudAccountsMigrator[24262] <Warning>: iCloudAccountMigrator: No migrated accounts, nothing to do!
+Mar  3 08:43:43 epicodus-104.local UserAccountUpdater[24254] <Error>: Keychain migrator exited with status: 0
+Mar  3 08:43:43 epicodus-104.local UserAccountUpdater[24254] <Error>: commerce: _copyPreferences (com.apple.storeagent, com.apple.commerce, kCFPreferencesCurrentUser, kCFPreferencesAnyHost)
+Mar  3 08:43:43 epicodus-104.local UserAccountUpdater[24254] <Error>: commerce: Did not upgrade (com.apple.storeagent does not exist or empty)
+Mar  3 08:43:43 epicodus-104.local UserAccountUpdater[24254] <Info>: Clearing ApplePressAndHoldEnabled preference
+Mar  3 08:43:43 epicodus-104.local mdmclient[24266] <Warning>: [Agent:201] Processing pre-login MDM check for: 201
+Mar  3 08:43:43 epicodus-104.local mdmclient[24266] <Warning>: [Agent:201] Current user is not bound by the MDM configuration: '<Payload: Mobile Device Management (com.meraki.sm.mdm_payload:BE33DBB6-6A9B-4B7E-A8A6-9A6FEE9BD618) from profile: Meraki Management (com.meraki.sm.mdm:6ca0c6f0-a109-0132-fe52-6d6572616b69)>' because it was installed by a different user on the system.
+Mar  3 08:43:43 epicodus-104.local Dock[24267] <Debug>: LSExceptions [0x6100000b9620] loaded
+Mar  3 08:43:43 epicodus-104.local SystemUIServer[24269] <Debug>: LSExceptions [0x6000000bbba0] loaded
+Mar  3 08:43:43 epicodus-104.local Finder[24270] <Debug>: LSExceptions [0x6000000affc0] loaded
+Mar  3 08:43:43 epicodus-104.local sharingd[24271] <Notice>: 08:43:43.556 : Starting Up...
+Mar  3 08:43:43 epicodus-104.local sharingd[24271] <Notice>: 08:43:43.560 : Device Capabilities (Handoff:YES, Instant Hotspot:YES, AirDrop:YES, Legacy AirDrop:YES, Remote Disc:YES)
+Mar  3 08:43:43 epicodus-104.local bird[24274] <Notice>: starting bird
+Mar  3 08:43:43 epicodus-104.local bird[24274] <Notice>: Power level really becomes good
+Mar  3 08:43:44 epicodus-104.local fontd[24280] <Error>: Failed to open read-only database, regenerating DB
+Mar  3 08:43:45 epicodus-104.local identityservicesd[24278] <Warning>: [Warning] DeviceHeartbeat - Failed loading device heartbeat data from keychain -25300
+Mar  3 08:43:45 epicodus-104.local IMDPersistenceAgent[24289] <Notice>: SACShieldWindowShowing:925: ERROR: NULL response
+Mar  3 08:43:46 epicodus-104.local IMDPersistenceAgent[24289] <Warning>: [Warning] Setting up a new database at path /Users/Guest/Library/Messages/chat.db.
+Mar  3 08:43:46 epicodus-104.local secinitd[24294] <Notice>: UID[201]: cache loaded: /System/Library/Caches/com.apple.app-sandbox-cache.plist
+Mar  3 08:43:48 epicodus-104 Finder[24270] <Error>: assertion failed: 14C109: libxpc.dylib + 97940 [876216DC-D5D3-381E-8AF9-49AE464E5107]: 0x89
+Mar  3 08:43:48 epicodus-104.local iconservicesagent[24306] <Notice>: iconservicesagent launched.
+Mar  3 08:43:48 epicodus-104.local apsctl[24302] <Debug>: not launching apsd because it is already running
+Mar  3 08:43:48 epicodus-104 askpermissiond[24309] <Error>: objc[24309]: Class FALogging is implemented in both /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/FamilyCircle and /System/Library/PrivateFrameworks/FamilyNotification.framework/Versions/A/FamilyNotification. One of the two will be used. Which one is undefined.
+Mar  3 08:43:48 epicodus-104.local AOSHeartbeat[24312] <Debug>: LSExceptions [0x7fb199e115b0] loaded
+Mar  3 08:43:48 epicodus-104.local iconservicesagent[24306] <Debug>: CoreServices logging is enabled,
+Mar  3 08:43:48 epicodus-104.local iconservicesagent[24306] <Notice>: Starting service with cache path: /var/folders/zz/zyxvpxvq6csfxvn_n00000s4000069/C/com.apple.iconservices
+Mar  3 08:43:48 epicodus-104.local askpermissiond[24309] <Notice>: StoreTransport: Resetting APS Connection using environment name production
+Mar  3 08:43:48 epicodus-104.local NotificationCenter[24304] <Debug>: LSExceptions [0x6080000a5f40] loaded
+Mar  3 08:43:48 epicodus-104.local Keychain Circle Notification[24301] <Debug>: LSExceptions [0x7f84a3e0aec0] loaded
+Mar  3 08:43:48 epicodus-104.local CalendarAgent[24292] <Warning>: Could not find Meta Data for persistent Store: Error Domain=NSCocoaErrorDomain Code=260 "The file “Calendar Cache” couldn’t be opened because there is no such file." UserInfo=0x7f9249f0ac30 {NSURL=file:///Users/Guest/Library/Calendars/Calendar%20Cache}
+Mar  3 08:43:48 epicodus-104.local WiFiAgent[24313] <Debug>: LSExceptions [0x7fe7db604ec0] loaded
+Mar  3 08:43:48 epicodus-104.local SystemUIServer[24269] <Error>: Cannot find executable for CFBundle 0x7fcb58c0bb20 </System/Library/CoreServices/Menu Extras/Clock.menu> (not loaded)
+Mar  3 08:43:49 epicodus-104.local Keychain Circle Notification[24301] <Warning>: Posted at launch: (
+	)
+Mar  3 08:43:49 epicodus-104.local Keychain Circle Notification[24301] <Warning>: Can't read state data (p=Preferences/com.apple.security.KCN.plist -- file:///Users/Guest/Library/, err=Error Domain=NSCocoaErrorDomain Code=260 "The file “com.apple.security.KCN.plist” couldn’t be opened because there is no such file." UserInfo=0x7f84a3c7e230 {NSFilePath=/Users/Guest/Library/Preferences/com.apple.security.KCN.plist, NSUnderlyingError=0x7f84a3c7e020 "The operation couldn’t be completed. No such file or directory"})
+Mar  3 08:43:49 epicodus-104.local secd[24279] <Warning>:  SOSEngineCreate engine failed load state starting with nothing (null)
+Mar  3 08:43:49 epicodus-104.local Keychain Circle Notification[24301] <Warning>: rawStatus -1, #applicants 0, #peers 0, err=Error Domain=com.apple.security.sos.error Code=2 "The operation couldn’t be completed. (com.apple.security.sos.error error 2 - Remote error : The operation couldn‚Äôt be completed. (com.apple.security.sos.error error 2 - Public Key not available - failed to register before call))" UserInfo=0x7f84a3f14260 {NSDescription=Remote error : The operation couldn‚Äôt be completed. (com.apple.security.sos.error error 2 - Public Key not available - failed to register before call)}
+Mar  3 08:43:49 epicodus-104.local Keychain Circle Notification[24301] <Warning>: Can't read state data (p=Preferences/com.apple.security.KCN.plist -- file:///Users/Guest/Library/, err=Error Domain=NSCocoaErrorDomain Code=260 "The file “com.apple.security.KCN.plist” couldn’t be opened because there is no such file." UserInfo=0x7f84a3d093d0 {NSFilePath=/Users/Guest/Library/Preferences/com.apple.security.KCN.plist, NSUnderlyingError=0x7f84a3d04d30 "The operation couldn’t be completed. No such file or directory"})
+Mar  3 08:43:49 epicodus-104.local Keychain Circle Notification[24301] <Warning>: Can't read state data (p=Preferences/com.apple.security.KCN.plist -- file:///Users/Guest/Library/, err=Error Domain=NSCocoaErrorDomain Code=260 "The file “com.apple.security.KCN.plist” couldn’t be opened because there is no such file." UserInfo=0x7f84a3f0d5f0 {NSFilePath=/Users/Guest/Library/Preferences/com.apple.security.KCN.plist, NSUnderlyingError=0x7f84a3f0d8e0 "The operation couldn’t be completed. No such file or directory"})
+Mar  3 08:43:49 epicodus-104.local Keychain Circle Notification[24301] <Warning>: Checking validity of 0 notes
+Mar  3 08:43:49 epicodus-104.local Keychain Circle Notification[24301] <Warning>: writeToStorage plist={
+	    applcationDate = "0000-12-30 00:00:00 +0000";
+	    lastCircleStatus = "-1";
+	    lastWritten = "2015-03-03 16:43:49 +0000";
+	    pendingApplicationReminder = "4001-01-01 00:00:00 +0000";
+	    pendingApplicationReminderInterval = 172800;
+	}
+Mar  3 08:43:49 epicodus-104.local CloudKeychainProxy[24320] <Notice>: start
+Mar  3 08:43:49 epicodus-104.local CloudKeychainProxy[24320] <Notice>: event -[UbiqitousKVSProxy init] <U----------> start
+Mar  3 08:43:49 epicodus-104.local Spotlight[24319] <Debug>: LSExceptions [0x6080000bf5c0] loaded
+Mar  3 08:43:49 epicodus-104.local CloudKeychainProxy[24320] <Notice>: event -[UbiqitousKVSProxy keybagDidUnlock] <UB--------->
+Mar  3 08:43:49 epicodus-104.local CloudKeychainProxy[24320] <Notice>: keytrace -[UbiqitousKVSProxy processKeyChangedEvent:] null:  pending: 
+Mar  3 08:43:50 epicodus-104.local CalendarAgent[24292] <Notice>: [com.apple.calendar.store.log.caldav.queue] [ ***** context WILL SAVE notification -[CalDAVChangeRequestsProducer managedObjectContextWillSave:] *****]
+Mar  3 08:43:50 epicodus-104.local GoogleSoftwareUpdateAgent[24303] <Debug>: LSExceptions [0x408c20] loaded
+Mar  3 08:43:50 epicodus-104.local SystemUIServer[24269] <Warning>: Could not find image named 'greenmarker'.
+Mar  3 08:43:50 epicodus-104.local CloudKeychainProxy[24320] <Notice>: keytrace -[UbiqitousKVSProxy processKeyChangedEvent:] null: >KeyParameters pending: 
+Mar  3 08:43:50 epicodus-104.local WiFiAgent[24313] <Warning>: [NO client logger] <Sep  9 2014 16:12:26> WIFICLOUDSYNC WiFiCloudSyncEngineCreate: created...
+Mar  3 08:43:50 epicodus-104.local WiFiAgent[24313] <Warning>: [NO client logger] <Sep  9 2014 16:12:26> WIFICLOUDSYNC WiFiCloudSyncEngineRegisterCallbacks: WiFiCloudSyncEngineCallbacks version - 0, bundle id - com.apple.wifi.WiFiAgent
+Mar  3 08:43:50 epicodus-104.local CloudKeychainProxy[24320] <Notice>: updates SOSCCProcessEnsurePeerRegistration enter SOSCCProcessEnsurePeerRegistration
+Mar  3 08:43:50 epicodus-104.local CloudKeychainProxy[24320] <Debug>: return=1
+Mar  3 08:43:50 epicodus-104.local CloudKeychainProxy[24320] <Error>:  __45-[UbiqitousKVSProxy doEnsurePeerRegistration]_block_invoke <UB---e-C---> ensurePeerRegistration called, success ((null))
+Mar  3 08:43:50 epicodus-104.local Spotlight[24319] <Warning>: spot: agent checkin
+Mar  3 08:43:50 epicodus-104.local CalendarAgent[24292] <Notice>: [com.apple.calendar.store.log.caldav.queue] [ ***** context WILL SAVE notification -[CalDAVChangeRequestsProducer managedObjectContextWillSave:] *****]
+Mar  3 08:43:51 epicodus-104.local Finder[24270] <Warning>: CoreDockSetTrashFull returned error -4956
+Mar  3 08:43:51 epicodus-104.local CalendarAgent[24292] <Notice>: [com.apple.calendar.store.log.caldav.queue] [ ***** context WILL SAVE notification -[CalDAVChangeRequestsProducer managedObjectContextWillSave:] *****]
+Mar  3 08:43:51 --- last message repeated 1 time ---
+Mar  3 08:43:51 epicodus-104.local CalendarAgent[24292] <Notice>: [com.apple.calendar.store.log.accounts] [Processing accounts marked for deletion]
+Mar  3 08:43:51 epicodus-104.local SpotlightNetHelper[24325] <Warning>: CGSConnectionByID: 0 is not a valid connection ID.
+Mar  3 08:43:51 epicodus-104.local SpotlightNetHelper[24325] <Warning>: Invalid Connection ID 0
+Mar  3 08:43:51 epicodus-104.local CalendarAgent[24292] <Notice>: [com.apple.calendar.iaplugin.log.CalInternetAccountsPlugin] [CalInternetAccountsPlugin initializing.]
+Mar  3 08:43:51 epicodus-104.local CalendarAgent[24292] <Warning>: Exception fetching ABCDContact in context <ABManagedObjectContext: 0x7f9249c801c0>: keypath birthdayComponents not found in entity <NSSQLEntity ABCDContact id=21>
+Mar  3 08:43:51 epicodus-104.local CalendarAgent[24292] <Warning>: Error fetching ABCDContact in context <ABManagedObjectContext: 0x7f9249c801c0>: (null) (null)
+Mar  3 08:43:51 epicodus-104.local storeaccountd[24324] <Warning>: AccountServiceDelegate: Accepting new connection <NSXPCConnection: 0x7f9d59f04a60> connection from pid 24304 with interface <AccountServiceInterface: 0x7f9d59e09600> (PID 24304)
+Mar  3 08:43:51 epicodus-104.local storeaccountd[24324] <Warning>: AccountServiceDelegate: Accepting new connection <NSXPCConnection: 0x7f9d59d0d4c0> connection from pid 24325 with interface <AccountServiceInterface: 0x7f9d59c27970> (PID 24325)
+Mar  3 08:43:51 epicodus-104.local storeaccountd[24324] <Notice>: 
+	
+	
+	--------------------------------------------------------- Begin --
+	
+	   System Version 10.10.2 (Build 14C109)
+	   "storeaccountd" Version ? (?)
+	
+	-------------------------------------------------------------------
+Mar  3 08:43:51 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Attempting to load bag (type=1) from https://init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:43:51 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Starting URL operation with url=https://init.itunes.apple.com/bag.xml?ix=5 / bagKey=(null)
+Mar  3 08:43:51 epicodus-104.local storeaccountd[24324] <Critical>: -[ISStoreURLOperation _runURLOperation]: _addStandardQueryParametersForURL: https://init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:43:52 epicodus-104.local ARDAgent[24257] <Debug>: LSExceptions [0x7fc85241beb0] unloaded
+Mar  3 08:43:53 epicodus-104.local Spotlight[24319] <Warning>: [com.apple.calendar.agentLink.xpc] [CalAgentLink set exported object called twice (
+		0   CalendarAgentLink                   0x00007fff8cdaae1c -[CalAgentLink setExportedObject:] + 128
+		1   CalendarPersistence                 0x00007fff8a296cc3 +[CalPersistence _startCoreDataXPCServer:] + 263
+		2   CalendarPersistence                 0x00007fff8a0c2053 +[CalPersistence setupCalendarPersistence:andCreateDefaultCalendarsIfNeeded:withSetupGroup:] + 207
+		3   EventKit                            0x00007fff8e0a0b0a -[EKCalendarStoreBackingStore _updatePersistenceAvailability] + 85
+		4   EventKit                            0x00007fff8e0a0382 -[EKCalendarStoreBackingStore initWithSourceFilters:includeEnabledDelegates:asyncWithCompletion:orWithExistingStore:] + 701
+		5   EventKit                            0x00007fff8e0a0075 -[EKCalendarStoreBackingStore initWithSourceFilters:includeEnabledDelegates:asyncWithCompletion:] + 60
+		6   EventKit                            0x00007fff8e08ab30 -[EKEventStore _newBackingStoreForType:includeEnabledDelegates:sourceFilters:asyncWithCompletion:] + 100
+		7   EventKit                            0x00007fff8e08498f -[EKEventStore initWithStoreType:includeEnabledDelegates:sourceFilters:asyncWithCompletion:orWithExistingStore:andBackingStore:] + 310
+		8   EventKit                            0x00007fff8e08483b -[EKEventStore initWithStoreType:includeEnabledDelegates:sourceFilters:asyncWithCompletion:] + 86
+		9   Spotlight                           0x0000000103457b46 Spotlight + 342854
+		10  Spotlight                           0x0000000103457c49 Spotlight + 343113
+		11  libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		12  libdispatch.dylib                   0x00007fff878d1b26 dispatch_once_f + 117
+		13  Spotlight                           0x0000000103457c1e Spotlight + 343070
+		14  Spotlight                           0x000000010344f7a4 Spotlight + 309156
+		15  libdispatch.dylib                   0x00007fff878d6323 _dispatch_call_block_and_release + 12
+		16  libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		17  libdispatch.dylib                   0x00007fff878d488f _dispatch_root_queue_drain + 935
+		18  libdispatch.dylib                   0x00007fff878e2fe4 _dispatch_worker_thread3 + 91
+		19  libsystem_pthread.dylib             0x00007fff8e886637 _pthread_wqthread + 729
+		20  libsystem_pthread.dylib             0x00007fff8e88440d start_wqthread + 13
+	)]
+Mar  3 08:43:53 epicodus-104.local Spotlight[24319] <Warning>: applications query - started
+Mar  3 08:43:53 epicodus-104.local NotificationCenter[24304] <Warning>: Layout still needs update after calling -[NSView layout].  NSView or one of its superclasses may have overridden -layout without calling super. Or, something may have dirtied layout in the middle of updating it.  Both are programming errors in Cocoa Autolayout.  The former is pretty likely to arise if some pre-Cocoa Autolayout class had a method called layout, but it should be fixed.
+Mar  3 08:43:54 epicodus-104.local SystemUIServer[24269] <Debug>: LSExceptions [0x6000000bbba0] unloaded
+Mar  3 08:43:54 epicodus-104.local CalNCService[24328] <Warning>: [com.apple.calendar.agentLink.xpc] [CalAgentLink set exported object called twice (
+		0   CalendarAgentLink                   0x00007fff8cdaae1c -[CalAgentLink setExportedObject:] + 128
+		1   CalendarPersistence                 0x00007fff8a296cc3 +[CalPersistence _startCoreDataXPCServer:] + 263
+		2   CalendarPersistence                 0x00007fff8a0c2053 +[CalPersistence setupCalendarPersistence:andCreateDefaultCalendarsIfNeeded:withSetupGroup:] + 207
+		3   EventKit                            0x00007fff8e0a0b0a -[EKCalendarStoreBackingStore _updatePersistenceAvailability] + 85
+		4   EventKit                            0x00007fff8e0a0382 -[EKCalendarStoreBackingStore initWithSourceFilters:includeEnabledDelegates:asyncWithCompletion:orWithExistingStore:] + 701
+		5   EventKit                            0x00007fff8e0a0075 -[EKCalendarStoreBackingStore initWithSourceFilters:includeEnabledDelegates:asyncWithCompletion:] + 60
+		6   EventKit                            0x00007fff8e08ab30 -[EKEventStore _newBackingStoreForType:includeEnabledDelegates:sourceFilters:asyncWithCompletion:] + 100
+		7   EventKit                            0x00007fff8e08498f -[EKEventStore initWithStoreType:includeEnabledDelegates:sourceFilters:asyncWithCompletion:orWithExistingStore:andBackingStore:] + 310
+		8   EventKit                            0x00007fff8e08483b -[EKEventStore initWithStoreType:includeEnabledDelegates:sourceFilters:asyncWithCompletion:] + 86
+		9   CalNCService                        0x0000000106ad13d2 main + 5794
+		10  libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		11  libdispatch.dylib                   0x00007fff878d1b26 dispatch_once_f + 117
+		12  CalNCService                        0x0000000106ad1130 main + 5120
+		13  libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		14  libdispatch.dylib                   0x00007fff878d1b26 dispatch_once_f + 117
+		15  CalNCService                        0x0000000106ad106e main + 4926
+		16  CalNCService                        0x0000000106ad021e main + 1262
+		17  CalNCService                        0x0000000106acfef5 main + 453
+		18  CalNCService                        0x0000000106acfe09 main + 217
+		19  libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		20  libdispatch.dylib                   0x00007fff878d1b26 dispatch_once_f + 117
+		21  CalNCService                        0x0000000106acfdde main + 174
+		22  CalNCService                        0x0000000106acfd6e main + 62
+		23  libdyld.dylib                       0x00007fff8a6da5c9 start + 1
+	)]
+Mar  3 08:43:54 epicodus-104.local Spotlight[24319] <Warning>: applications query - finished in 0.75 seconds
+Mar  3 08:43:54 epicodus-104.local Dock[24267] <Debug>: LSExceptions [0x6100000b9620] unloaded
+Mar  3 08:43:54 epicodus-104.local pkd[24272] <Warning>: enabling pid=24304 for plug-in com.apple.ncplugin.stocks(1.0) C51635FA-43F2-4299-B04D-402DF28760B6 /System/Library/Frameworks/NotificationCenter.framework/PlugIns/com.apple.ncplugin.stocks.appex
+Mar  3 08:43:54 epicodus-104.local pkd[24272] <Warning>: enabling pid=24304 for plug-in com.apple.iCal.CalendarNC(1.0) 6ADF4863-7437-4EEC-BE68-9F296E610975 /Applications/Calendar.app/Contents/PlugIns/com.apple.iCal.CalendarNC.appex
+Mar  3 08:43:54 epicodus-104.local pkd[24272] <Warning>: enabling pid=24304 for plug-in com.apple.ncplugin.weather(1.0) 05522356-DB88-4F4F-822D-FCFF680F6F51 /System/Library/Frameworks/NotificationCenter.framework/PlugIns/com.apple.ncplugin.weather.appex
+Mar  3 08:43:54 epicodus-104.local pkd[24272] <Warning>: enabling pid=24304 for plug-in com.apple.RemindersNC(1.0) 093F408A-A135-450E-85E9-553FB792B816 /Applications/Reminders.app/Contents/PlugIns/com.apple.RemindersNC.appex
+Mar  3 08:43:54 epicodus-104.local Finder[24270] <Debug>: LSExceptions [0x6000000affc0] unloaded
+Mar  3 08:43:55 epicodus-104.local com.apple.iCal.CalendarNC[24335] <Debug>: LSExceptions [0x6000000a7c20] loaded
+Mar  3 08:43:55 epicodus-104.local com.apple.iCal.CalendarNC[24335] <Warning>: [com.apple.calendar.agentLink.xpc] [CalAgentLink set exported object called twice (
+		0   CalendarAgentLink                   0x00007fff8cdaae1c -[CalAgentLink setExportedObject:] + 128
+		1   CalendarPersistence                 0x00007fff8a296cc3 +[CalPersistence _startCoreDataXPCServer:] + 263
+		2   CalendarPersistence                 0x00007fff8a2976d5 __87+[CalPersistence asyncConnectToPersistenceWithClientXPCWaitingOnGroup:completionBlock:]_block_invoke344 + 130
+		3   libdispatch.dylib                   0x00007fff878d6323 _dispatch_call_block_and_release + 12
+		4   libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		5   libdispatch.dylib                   0x00007fff878d899e _dispatch_async_redirect_invoke + 650
+		6   libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		7   libdispatch.dylib                   0x00007fff878d488f _dispatch_root_queue_drain + 935
+		8   libdispatch.dylib                   0x00007fff878e2fe4 _dispatch_worker_thread3 + 91
+		9   libsystem_pthread.dylib             0x00007fff8e886637 _pthread_wqthread + 729
+		10  libsystem_pthread.dylib             0x00007fff8e88440d start_wqthread + 13
+	)]
+Mar  3 08:43:56 epicodus-104.local com.apple.RemindersNC[24337] <Debug>: LSExceptions [0x6180000b21e0] loaded
+Mar  3 08:43:56 epicodus-104.local NotificationCenter[24304] <Warning>: plugin com.apple.iCal.CalendarNC interrupted
+Mar  3 08:43:56 epicodus-104.local com.apple.RemindersNC[24337] <Warning>: [com.apple.calendar.agentLink.xpc] [CalAgentLink set exported object called twice (
+		0   CalendarAgentLink                   0x00007fff8cdaae1c -[CalAgentLink setExportedObject:] + 128
+		1   CalendarPersistence                 0x00007fff8a296cc3 +[CalPersistence _startCoreDataXPCServer:] + 263
+		2   CalendarPersistence                 0x00007fff8a2976d5 __87+[CalPersistence asyncConnectToPersistenceWithClientXPCWaitingOnGroup:completionBlock:]_block_invoke344 + 130
+		3   libdispatch.dylib                   0x00007fff878d6323 _dispatch_call_block_and_release + 12
+		4   libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		5   libdispatch.dylib                   0x00007fff878d899e _dispatch_async_redirect_invoke + 650
+		6   libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+		7   libdispatch.dylib                   0x00007fff878d488f _dispatch_root_queue_drain + 935
+		8   libdispatch.dylib                   0x00007fff878e2fe4 _dispatch_worker_thread3 + 91
+		9   libsystem_pthread.dylib             0x00007fff8e886637 _pthread_wqthread + 729
+		10  libsystem_pthread.dylib             0x00007fff8e88440d start_wqthread + 13
+	)]
+Mar  3 08:43:56 epicodus-104.local NotificationCenter[24304] <Warning>: plugin com.apple.RemindersNC interrupted
+Mar  3 08:43:56 epicodus-104.local com.apple.ncplugin.weather[24336] <Warning>: *** -[NSKeyedUnarchiver initForReadingWithData:]: data is NULL
+Mar  3 08:43:56 epicodus-104.local NotificationCenter[24304] <Warning>: plugin com.apple.ncplugin.weather interrupted
+Mar  3 08:43:56 epicodus-104.local findNames[24340] <Debug>: LSExceptions [0x7fe3fbe09f80] loaded
+Mar  3 08:43:56 epicodus-104.local identityservicesd[24278] <Warning>: [Warning] Setting up a new database at path /Users/Guest/Library/IdentityServices/ids.db.
+Mar  3 08:43:56 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>: Configuring notification center for identifier: com.apple.iChat   topics: (
+	)
+Mar  3 08:43:56 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>:    NC Disabled: NO
+Mar  3 08:43:56 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>:   DND Enabled: NO
+Mar  3 08:43:56 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>: Updating enabled: YES   (Topics: (
+	))
+Mar  3 08:43:56 epicodus-104.local sharingd[24271] <Warning>: [Warning] Services all disappeared, removing all dependent devices
+Mar  3 08:43:56 epicodus-104.local com.apple.InputMethodKit.UserDictionary[24341] <Warning>: Saving observed local peer identity to LocalPeerIdentityCurrent
+Mar  3 08:43:56 epicodus-104.local imagent[24288] <Warning>: [Warning] Services all disappeared, removing all dependent devices
+Mar  3 08:43:56 epicodus-104.local sharingd[24271] <Error>: 08:43:56.966 : SDActivityPayloadManager::loadPersistedKeyRequests Clearing store as format is invalid (null)
+Mar  3 08:43:56 epicodus-104.local callservicesd[24283] <Warning>: [Warning] Services all disappeared, removing all dependent devices
+Mar  3 08:43:56 epicodus-104.local cloudpaird[24310] <Warning>: [Warning] Services all disappeared, removing all dependent devices
+Mar  3 08:43:57 epicodus-104.local imagent[24288] <Warning>: [Warning] IMDAccount: incoming 'defaults' is not a dictionary, (null), (null)
+Mar  3 08:43:58 --- last message repeated 1 time ---
+Mar  3 08:43:58 epicodus-104.local AOSHeartbeat[24312] <Debug>: LSExceptions [0x7fb199e115b0] unloaded
+Mar  3 08:43:59 epicodus-104.local softwareupdate_notify_agent[24345] <Debug>: Running for LoginDone
+Mar  3 08:43:59 epicodus-104.local softwareupdate_notify_agent[24345] <Debug>: AssertionMgr: Take com.apple.softwareupdate.NotifyAgentAssertion assertion with type BackgroundTask for pid 24345
+Mar  3 08:43:59 epicodus-104.local softwareupdate_notify_agent[24345] <Debug>: Notifying with params: {
+	    UpdateNotificationsOnly = 1;
+	}
+Mar  3 08:43:59 epicodus-104.local softwareupdate_notify_agent[24345] <Debug>: appstoreupdateagent notified
+Mar  3 08:43:59 epicodus-104.local softwareupdate_notify_agent[24345] <Debug>: AssertionMgr: Cancel com.apple.softwareupdate.NotifyAgentAssertion assertion for pid 24345
+Mar  3 08:43:59 epicodus-104.local fmfd[24344] <Warning>: Initialized sandbox
+Mar  3 08:43:59 epicodus-104.local appstoreupdateagent[24352] <Notice>: 
+	
+	
+	--------------------------------------------------------- Begin --
+	
+	   System Version 10.10.2 (Build 14C109)
+	   "appstoreupdateagent" Version ? (?)
+	
+	-------------------------------------------------------------------
+Mar  3 08:43:59 epicodus-104.local appstoreupdateagent[24352] <Critical>: appstoreupdateagent: Staring up...
+Mar  3 08:43:59 epicodus-104.local appstoreupdateagent[24352] <Critical>: appstoreupdateagent: creating XPC listener
+Mar  3 08:43:59 epicodus-104.local appstoreupdateagent[24352] <Critical>: appstoreupdateagent: resuming connection on startup
+Mar  3 08:43:59 epicodus-104.local appstoreupdateagent[24352] <Critical>: appstoreupdateagent: message send is pending, calling dispatch_main
+Mar  3 08:43:59 epicodus-104.local appstoreupdateagent[24352] <Critical>: appstoreupdateagent: received XPC_TYPE_CONNECTION event on listener
+Mar  3 08:43:59 epicodus-104.local appstoreupdateagent[24352] <Critical>: appstoreupdateagent: resuming connection after event
+Mar  3 08:43:59 epicodus-104.local sharingd[24271] <Warning>: 08:43:59.692 : No delegate parameters from account, account exists = NO
+Mar  3 08:43:59 epicodus-104.local sharingd[24271] <Notice>: 08:43:59.692 : Tethering: Identifier needs fixing
+Mar  3 08:43:59 epicodus-104.local sharingd[24271] <Warning>: 08:43:59.694 : No delegate parameters from account, account exists = NO
+Mar  3 08:43:59 epicodus-104.local sharingd[24271] <Warning>: 08:43:59.696 : No delegate parameters from account, account exists = NO
+Mar  3 08:43:59 epicodus-104.local soagent[24316] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:43:59 epicodus-104.local CalNCService[24328] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:43:59 epicodus-104.local AddressBookSourceSync[24338] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:43:59 epicodus-104.local Keychain Circle Notification[24301] <Debug>: LSExceptions [0x7f84a3e0aec0] unloaded
+Mar  3 08:43:59 epicodus-104.local CalendarAgent[24292] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:43:59 epicodus-104.local Spotlight[24319] <Debug>: LSExceptions [0x6080000bf5c0] unloaded
+Mar  3 08:43:59 epicodus-104.local WiFiAgent[24313] <Debug>: LSExceptions [0x7fe7db604ec0] unloaded
+Mar  3 08:44:00 epicodus-104 com.apple.iCloudHelper[24357] <Error>: objc[24357]: Class FALogging is implemented in both /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/FamilyCircle and /System/Library/PrivateFrameworks/FamilyNotification.framework/Versions/A/FamilyNotification. One of the two will be used. Which one is undefined.
+Mar  3 08:44:00 epicodus-104.local GoogleSoftwareUpdateAgent[24303] <Debug>: LSExceptions [0x408c20] unloaded
+Mar  3 08:44:00 epicodus-104.local com.apple.dock.extra[24358] <Debug>: LSExceptions [0x6180000ba280] loaded
+Mar  3 08:44:01 epicodus-104.local callservicesd[24283] <Warning>: Failed to get the bundle id
+Mar  3 08:44:01 epicodus-104.local callservicesd[24283] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:44:01 epicodus-104.local cloudd[24362] <Error>: Could not create primary backing account
+Mar  3 08:44:01 epicodus-104.local CallHistorySyncHelper[24360] <Warning>: [Warning] Services all disappeared, removing all dependent devices
+Mar  3 08:44:02 epicodus-104.local storeassetd[24359] <Warning>: AssetServiceDelegate: Accepting new connection <NSXPCConnection: 0x7f8730615f10> connection from pid 24353 with interface <AssetServiceInterface: 0x7f8730617d70> (PID 24353)
+Mar  3 08:44:02 epicodus-104.local storeassetd[24359] <Notice>: 
+	
+	
+	--------------------------------------------------------- Begin --
+	
+	   System Version 10.10.2 (Build 14C109)
+	   "storeassetd" Version ? (?)
+	
+	-------------------------------------------------------------------
+Mar  3 08:44:02 epicodus-104.local storeassetd[24359] <Critical>: UpdateController: updateNotificationsOnly=true, setting updateNotificationsOnly=YES on <UpdateOperation: 0x7f873070a3e0>{name = '(null)'}
+Mar  3 08:44:02 epicodus-104.local storeassetd[24359] <Warning>: addOperation <UpdateOperation: 0x7f873070a3e0>{name = '(null)'}
+Mar  3 08:44:03 epicodus-104.local LaterAgent[24364] <Debug>: LSExceptions [0x7feef8417930] loaded
+Mar  3 08:44:03 epicodus-104.local CoreServicesUIAgent[24365] <Debug>: LSExceptions [0x7fce787084a0] loaded
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: UpdateOperation: Asserted BackgroundTask power assertion (returned 0)
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: <UpdateOperation: 0x7f873070a3e0>{name = '(null)'}: Did not check for updates, stage or auto-update due to self.shouldUpdateNotificationsOnly=1 on <UpdateOperation: 0x7f873070a3e0>{name = '(null)'}
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: WhatsNewController: Not arming because the notification has already been posted
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: UpdateOperation: softwareUpdateDidFinishBackgroundScanWithMessage: removing all critical update notification (except post-install) due to critical update count being 0
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: UpdateOperation: Removing all updates available notifications because the badge count is 0
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: UpdateOperation: Message tracing com.apple.MacAppStore.autoupdate.operation_run - {
+	    "darkwake_thermal_emergency_count" = 0;
+	    "elapsed_time" = 0;
+	    "is_time_to_autoupdate_and_notify" = yes;
+	    "is_time_to_stage" = yes;
+	    "now_is_later" = no;
+	    "os_updates_to_install_on_restart" = "";
+	    result = pass;
+	    "user_initiated" = no;
+	    "will_restart" = no;
+	}
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: SoftwareMapLegacyAppSource: Observing bag to check for legacy conversion enabling key
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: UpdateOperation: Released BackgroundTask power assertion (returned 0)
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: SoftwareMapLaunchPadSource: Import of LaunchPad app list after change took 0.0020 seconds
+Mar  3 08:44:03 epicodus-104.local storeaccountd[24324] <Warning>: AccountServiceDelegate: Accepting new connection <NSXPCConnection: 0x7f9d59e19b50> connection from pid 24359 with interface <AccountServiceInterface: 0x7f9d59e04630> (PID 24359)
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: SoftwareMapSpotlightSource: _queryDidFinish
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: SoftwareMapSpotlightSource: After spotlight initial import and sync the spotlight map is: {
+	}
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: SoftwareMapSpotlightSource: MDQuery initial load took 0.015096 seconds to load 0 apps from 0 metadata records
+Mar  3 08:44:03 epicodus-104.local storeassetd[24359] <Critical>: SoftwareMap: Software map rebuild took 0.1305 seconds for 0 records and produced: {
+	}
+Mar  3 08:44:03 epicodus-104.local storedownloadd[24366] <Warning>: DownloadServiceDelegate: Accepting new connection <NSXPCConnection: 0x7fad08508eb0> connection from pid 24359 with interface <DownloadServiceInterface: 0x7fad0850cef0> (PID 24359)
+Mar  3 08:44:03 epicodus-104.local storedownloadd[24366] <Notice>: 
+	
+	
+	--------------------------------------------------------- Begin --
+	
+	   System Version 10.10.2 (Build 14C109)
+	   "storedownloadd" Version ? (?)
+	
+	-------------------------------------------------------------------
+Mar  3 08:44:03 epicodus-104.local storedownloadd[24366] <Critical>: DownloadQueue: Setting downloads to paused so user can resume.
+Mar  3 08:44:05 epicodus-104.local NotificationCenter[24304] <Debug>: LSExceptions [0x6080000a5f40] unloaded
+Mar  3 08:44:10 epicodus-104.local com.apple.dock.extra[24358] <Debug>: LSExceptions [0x6180000ba280] unloaded
+Mar  3 08:44:13 epicodus-104.local bird[24274] <Notice>: Network reachability changed to unreachable [- -------]
+Mar  3 08:44:13 epicodus-104.local bird[24274] <Notice>: Network really becomes unreachable
+Mar  3 08:44:14 epicodus-104.local LaterAgent[24364] <Debug>: LSExceptions [0x7feef8417930] unloaded
+Mar  3 08:44:14 epicodus-104.local CoreServicesUIAgent[24365] <Debug>: LSExceptions [0x7fce787084a0] unloaded
+Mar  3 08:44:51 epicodus-104.local sharingd[24271] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:44:51 --- last message repeated 1 time ---
+Mar  3 08:44:51 epicodus-104.local soagent[24316] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:44:51 --- last message repeated 1 time ---
+Mar  3 08:44:51 epicodus-104.local CalendarAgent[24292] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:44:51 epicodus-104.local callservicesd[24283] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:44:51 --- last message repeated 1 time ---
+Mar  3 08:44:51 epicodus-104.local CalNCService[24328] <Warning>: Could not replace account with identifier: _local
+Mar  3 08:44:53 epicodus-104.local SpotlightNetHelper[24325] <Warning>: [SLSUGGESTIONS] Got bag error Error Domain=NSURLErrorDomain Code=-1001 "The operation couldn’t be completed. (NSURLErrorDomain error -1001.)" UserInfo=0x7fcce3e646b0 {NSErrorFailingURLStringKey=https://api.smoot.apple.com/bag?key=andromeda&locale=en-US, NSUnderlyingError=0x7fcce3e2b1f0 "The operation couldn’t be completed. (kCFErrorDomainCFNetwork error -1001.)", NSErrorFailingURLKey=https://api.smoot.apple.com/bag?key=andromeda&locale=en-US}
+Mar  3 08:44:53 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Output was not an dictionary ((null))
+Mar  3 08:44:53 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Chose not to retry after error: Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x7f9d59f1db10 {NSLocalizedDescription=The request timed out.}
+Mar  3 08:44:53 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Attempting to load bag (type=1) from https://init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:44:53 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Starting URL operation with url=https://init.itunes.apple.com/bag.xml?ix=5 / bagKey=(null)
+Mar  3 08:44:53 epicodus-104.local storeaccountd[24324] <Critical>: -[ISStoreURLOperation _runURLOperation]: _addStandardQueryParametersForURL: https://init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:44:56 epicodus-104.local NotificationCenter[24304] <Warning>: plugin com.apple.ncplugin.stocks interrupted
+Mar  3 08:44:57 epicodus-104.local IMRemoteURLConnectionAgent[24343] <Notice>: SACShieldWindowShowing:925: ERROR: NULL response
+Mar  3 08:44:57 epicodus-104.local identityservicesd[24278] <Warning>: [Warning] Bag loading failed! Error (NSURLErrorDomain:-1001): The request timed out. http://init.ess.apple.com/WebObjects/VCInit.woa/wa/getBag?ix=1
+Mar  3 08:44:59 epicodus-104.local AppleIDAuthAgent[24307] <Warning>: AOSKit ERROR: Config request failed, url=https://setup.icloud.com/configurations/init, requestHeaders=
+	{
+	    "Accept-Language" = "en-us";
+	    "X-Mme-Client-Info" = "<iMac14,2> <Mac OS X;10.10.2;14C109> <com.apple.AOSKit/215>";
+	    "X-Mme-Country" = US;
+	    "X-Mme-Device-Id" = "1FEBAAF9-296A-5BED-92DF-0913F12AEC5A";
+	    "X-Mme-Nac-Version" = 11A457;
+	    "X-Mme-Setup-FCE048DE-F34F-4FAF-A6DD-6C8AC9DF0C54" = true;
+	    "X-Mme-Timezone" = PST;
+	},
+	error=Error Domain=kCFErrorDomainCFNetwork Code=-1001 "The request timed out." UserInfo=0x7fc9c944f500 {NSErrorFailingURLStringKey=https://setup.icloud.com/configurations/init, NSLocalizedDescription=The request timed out., NSErrorFailingURLKey=https://setup.icloud.com/configurations/init}, httpStatusCode=-1, responseHeaders=
+	(null)
+Mar  3 08:44:59 epicodus-104.local AppleIDAuthAgent[24307] <Warning>: AppleIdAuth URL Error: Error Domain=AOSErrorDomain Code=1000 "The operation couldn’t be completed. (AOSErrorDomain error 1000.)"
+Mar  3 08:45:15 epicodus-104.local Dock[24267] <Debug>: LSExceptions [0x6080000bd3a0] loaded
+Mar  3 08:45:16 epicodus-104.local Atom[24398] <Debug>: LSExceptions [0x6080000a5b80] loaded
+Mar  3 08:45:16 epicodus-104.local Atom Helper[24402] <Debug>: LSExceptions [0x7fcb13503a20] loaded
+Mar  3 08:45:17 epicodus-104.local Atom[24398] <Warning>: App load time: 806ms
+Mar  3 08:45:26 epicodus-104.local Dock[24267] <Debug>: LSExceptions [0x6080000bd3a0] unloaded
+Mar  3 08:45:27 epicodus-104.local Atom[24398] <Debug>: LSExceptions [0x6080000a5b80] unloaded
+Mar  3 08:45:29 epicodus-104.local Dock[24267] <Debug>: LSExceptions [0x6180000bb240] loaded
+Mar  3 08:45:30 epicodus-104.local Google Chrome[24418] <Debug>: LSExceptions [0x6180000b1160] loaded
+Mar  3 08:45:31 epicodus-104.local Google Chrome[24418] <Warning>: stat on /Users/Guest/Library/Application Support/Google/Chrome/Default/Bookmarks: No such file or directory
+Mar  3 08:45:31 epicodus-104.local Google Chrome Helper[24422] <Debug>: LSExceptions [0x7fdb2ad0d270] loaded
+Mar  3 08:45:31 epicodus-104.local Google Chrome Helper[24430] <Debug>: LSExceptions [0x7f9d295410a0] loaded
+Mar  3 08:45:31 epicodus-104.local Google Chrome Helper[24431] <Debug>: LSExceptions [0x7ff28350d830] loaded
+Mar  3 08:45:31 epicodus-104.local Google Chrome Helper[24429] <Debug>: LSExceptions [0x7fdc38d2efd0] loaded
+Mar  3 08:45:31 epicodus-104.local Google Chrome Helper[24432] <Debug>: LSExceptions [0x7fb999c30270] loaded
+Mar  3 08:45:32 epicodus-104.local Google Chrome Helper[24435] <Debug>: LSExceptions [0x7fa3e0c4d660] loaded
+Mar  3 08:45:34 epicodus-104.local Google Chrome Helper[24436] <Debug>: LSExceptions [0x7fadb0603610] loaded
+Mar  3 08:45:37 epicodus-104.local Google Chrome Helper[24438] <Debug>: LSExceptions [0x7f8f6a704480] loaded
+Mar  3 08:45:39 epicodus-104.local Dock[24267] <Debug>: LSExceptions [0x6180000bb240] unloaded
+Mar  3 08:45:41 epicodus-104.local Google Chrome[24418] <Debug>: LSExceptions [0x6180000b1160] unloaded
+Mar  3 08:45:42 epicodus-104.local Google Chrome Helper[24422] <Debug>: LSExceptions [0x7fdb2ad0d270] unloaded
+Mar  3 08:45:42 epicodus-104.local Google Chrome Helper[24430] <Debug>: LSExceptions [0x7f9d295410a0] unloaded
+Mar  3 08:45:42 epicodus-104.local Google Chrome Helper[24431] <Debug>: LSExceptions [0x7ff28350d830] unloaded
+Mar  3 08:45:42 epicodus-104.local Google Chrome Helper[24429] <Debug>: LSExceptions [0x7fdc38d2efd0] unloaded
+Mar  3 08:45:42 epicodus-104.local Google Chrome Helper[24432] <Debug>: LSExceptions [0x7fb999c30270] unloaded
+Mar  3 08:45:42 epicodus-104.local Google Chrome Helper[24435] <Debug>: LSExceptions [0x7fa3e0c4d660] unloaded
+Mar  3 08:45:47 epicodus-104.local Google Chrome Helper[24438] <Debug>: LSExceptions [0x7f8f6a704480] unloaded
+Mar  3 08:45:53 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Output was not an dictionary ((null))
+Mar  3 08:45:53 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Chose not to retry after error: Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x7f9d59c38b10 {NSLocalizedDescription=The request timed out.}
+Mar  3 08:45:53 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Attempting to load bag (type=1) from http://ax.init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:45:53 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Starting URL operation with url=http://ax.init.itunes.apple.com/bag.xml?ix=5 / bagKey=(null)
+Mar  3 08:45:53 epicodus-104.local storeaccountd[24324] <Critical>: -[ISStoreURLOperation _runURLOperation]: _addStandardQueryParametersForURL: http://ax.init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:46:09 epicodus-104.local Google Chrome Helper[24451] <Debug>: LSExceptions [0x7fc4b3c48710] loaded
+Mar  3 08:46:13 epicodus-104.local Google Chrome Helper[24452] <Debug>: LSExceptions [0x7fb8e8504270] loaded
+Mar  3 08:46:17 epicodus-104.local Google Chrome Helper[24454] <Debug>: LSExceptions [0x7f96ab702a30] loaded
+Mar  3 08:46:20 epicodus-104.local Google Chrome Helper[24451] <Debug>: LSExceptions [0x7fc4b3c48710] unloaded
+Mar  3 08:46:28 epicodus-104.local Google Chrome Helper[24454] <Debug>: LSExceptions [0x7f96ab702a30] unloaded
+Mar  3 08:46:49 epicodus-104.local Google Chrome Helper[24466] <Debug>: LSExceptions [0x7fc34b701330] loaded
+Mar  3 08:46:54 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Output was not an dictionary ((null))
+Mar  3 08:46:54 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Chose not to retry after error: Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x7f9d59d136d0 {NSLocalizedDescription=The request timed out.}
+Mar  3 08:46:54 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Attempting to load bag (type=1) from http://phobos.apple.com/bag.xml?ix=5
+Mar  3 08:46:54 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Starting URL operation with url=http://phobos.apple.com/bag.xml?ix=5 / bagKey=(null)
+Mar  3 08:46:54 epicodus-104.local storeaccountd[24324] <Critical>: -[ISStoreURLOperation _runURLOperation]: _addStandardQueryParametersForURL: http://phobos.apple.com/bag.xml?ix=5
+Mar  3 08:46:59 epicodus-104.local Google Chrome Helper[24466] <Debug>: LSExceptions [0x7fc34b701330] unloaded
+Mar  3 08:47:03 epicodus-104.local Google Chrome Helper[24472] <Debug>: LSExceptions [0x7fb95871be80] loaded
+Mar  3 08:47:14 epicodus-104.local Google Chrome Helper[24472] <Debug>: LSExceptions [0x7fb95871be80] unloaded
+Mar  3 08:47:55 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Output was not an dictionary ((null))
+Mar  3 08:47:55 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Chose not to retry after error: Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x7f9d59d18eb0 {NSLocalizedDescription=The request timed out.}
+Mar  3 08:47:55 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Finished loading bag type 1
+Mar  3 08:47:55 epicodus-104.local storeassetd[24359] <Critical>: SoftwareMapLegacyAppSource: Bag is invalid : legacy conversion is disabled
+Mar  3 08:47:55 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Attempting to load bag (type=1) from https://init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:47:55 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Starting URL operation with url=https://init.itunes.apple.com/bag.xml?ix=5 / bagKey=(null)
+Mar  3 08:47:55 epicodus-104.local storeaccountd[24324] <Critical>: -[ISStoreURLOperation _runURLOperation]: _addStandardQueryParametersForURL: https://init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:48:56 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Output was not an dictionary ((null))
+Mar  3 08:48:56 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Chose not to retry after error: Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x7f9d59f1e8f0 {NSLocalizedDescription=The request timed out.}
+Mar  3 08:48:56 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Attempting to load bag (type=1) from https://init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:48:56 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Starting URL operation with url=https://init.itunes.apple.com/bag.xml?ix=5 / bagKey=(null)
+Mar  3 08:48:56 epicodus-104.local storeaccountd[24324] <Critical>: -[ISStoreURLOperation _runURLOperation]: _addStandardQueryParametersForURL: https://init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:49:57 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Output was not an dictionary ((null))
+Mar  3 08:49:57 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Chose not to retry after error: Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x7f9d59c2ae80 {NSLocalizedDescription=The request timed out.}
+Mar  3 08:49:57 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Attempting to load bag (type=1) from http://ax.init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:49:57 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Starting URL operation with url=http://ax.init.itunes.apple.com/bag.xml?ix=5 / bagKey=(null)
+Mar  3 08:49:57 epicodus-104.local storeaccountd[24324] <Critical>: -[ISStoreURLOperation _runURLOperation]: _addStandardQueryParametersForURL: http://ax.init.itunes.apple.com/bag.xml?ix=5
+Mar  3 08:50:44 epicodus-104.local Google Chrome Helper[24536] <Debug>: LSExceptions [0x7faa60c490b0] loaded
+Mar  3 08:50:50 epicodus-104.local Google Chrome Helper[24537] <Debug>: LSExceptions [0x7ffdebe06ea0] loaded
+Mar  3 08:50:57 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Output was not an dictionary ((null))
+Mar  3 08:50:57 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Chose not to retry after error: Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x7f9d59e515d0 {NSLocalizedDescription=The request timed out.}
+Mar  3 08:50:57 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Attempting to load bag (type=1) from http://phobos.apple.com/bag.xml?ix=5
+Mar  3 08:50:57 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Starting URL operation with url=http://phobos.apple.com/bag.xml?ix=5 / bagKey=(null)
+Mar  3 08:50:57 epicodus-104.local storeaccountd[24324] <Critical>: -[ISStoreURLOperation _runURLOperation]: _addStandardQueryParametersForURL: http://phobos.apple.com/bag.xml?ix=5
+Mar  3 08:51:01 epicodus-104.local Google Chrome Helper[24537] <Debug>: LSExceptions [0x7ffdebe06ea0] unloaded
+Mar  3 08:51:05 epicodus-104.local Google Chrome Helper[24540] <Debug>: LSExceptions [0x7fcc18c3ef90] loaded
+Mar  3 08:51:12 epicodus-104.local Google Chrome Helper[24548] <Debug>: LSExceptions [0x7feadbc409a0] loaded
+Mar  3 08:51:14 epicodus-104.local Google Chrome Helper[24550] <Debug>: LSExceptions [0x7f8ab2c617a0] loaded
+Mar  3 08:51:16 epicodus-104.local Google Chrome Helper[24540] <Debug>: LSExceptions [0x7fcc18c3ef90] unloaded
+Mar  3 08:51:18 epicodus-104.local Google Chrome Helper[24551] <Debug>: LSExceptions [0x7faee1454ec0] loaded
+Mar  3 08:51:29 epicodus-104.local Google Chrome Helper[24551] <Debug>: LSExceptions [0x7faee1454ec0] unloaded
+Mar  3 08:51:57 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Output was not an dictionary ((null))
+Mar  3 08:51:57 epicodus-104.local storeaccountd[24324] <Critical>: ISStoreURLOperation: Chose not to retry after error: Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x7f9d59f07610 {NSLocalizedDescription=The request timed out.}
+Mar  3 08:51:57 epicodus-104.local storeaccountd[24324] <Critical>: BagLoadOperation: Finished loading bag type 1
+Mar  3 08:52:05 epicodus-104.local Google Chrome Helper[24562] <Debug>: LSExceptions [0x7f8ae9510200] loaded
+Mar  3 08:52:09 epicodus-104.local Google Chrome Helper[24570] <Debug>: LSExceptions [0x7f9e317046d0] loaded
+Mar  3 08:52:10 epicodus-104.local Google Chrome[24418] <Error>: WARNING: The Gestalt selector gestaltSystemVersion is returning 10.9.2 instead of 10.10.2. Use NSProcessInfo's operatingSystemVersion property to get correct system version number.
+	Call location:
+Mar  3 08:52:10 epicodus-104.local Google Chrome[24418] <Error>: 0   CarbonCore                          0x00007fff89e48d9b ___Gestalt_SystemVersion_block_invoke + 113
+Mar  3 08:52:10 epicodus-104.local Google Chrome[24418] <Error>: 1   libdispatch.dylib                   0x00007fff878d1c13 _dispatch_client_callout + 8
+Mar  3 08:52:10 epicodus-104.local Google Chrome[24418] <Error>: 2   libdispatch.dylib                   0x00007fff878d1b26 dispatch_once_f + 117
+Mar  3 08:52:10 epicodus-104.local Google Chrome[24418] <Error>: 3   CarbonCore                          0x00007fff89df13ca _Gestalt_SystemVersion + 987
+Mar  3 08:52:10 epicodus-104.local Google Chrome[24418] <Error>: 4   CarbonCore                          0x00007fff89df0fb7 Gestalt + 144
+Mar  3 08:52:10 epicodus-104.local Google Chrome[24418] <Error>: 5   Google Chrome Framework             0x000000010548ce5e ChromeMain + 44169902
+Mar  3 08:52:10 epicodus-104.local Google Chrome[24418] <Error>: 6   Google Chrome Framework             0x000000010548cf7c ChromeMain + 44170188
+Mar  3 08:52:16 epicodus-104.local Google Chrome Helper[24562] <Debug>: LSExceptions [0x7f8ae9510200] unloaded
+Mar  3 08:52:20 epicodus-104.local Google Chrome Helper[24570] <Debug>: LSExceptions [0x7f9e317046d0] unloaded
+Mar  3 09:13:15 epicodus-104.local Google Chrome Helper[24879] <Debug>: LSExceptions [0x7fb1c2e053a0] loaded
+Mar  3 09:13:21 epicodus-104.local Google Chrome Helper[24881] <Debug>: LSExceptions [0x7ffbb1c4aff0] loaded
+Mar  3 09:13:26 epicodus-104.local Google Chrome Helper[24879] <Debug>: LSExceptions [0x7fb1c2e053a0] unloaded
+Mar  3 09:13:27 epicodus-104.local Google Chrome Helper[24883] <Debug>: LSExceptions [0x7f982352fb70] loaded
+Mar  3 09:13:38 epicodus-104.local Google Chrome Helper[24883] <Debug>: LSExceptions [0x7f982352fb70] unloaded
+Mar  3 09:13:40 epicodus-104.local PubSubAgent[24893] <Warning>: SQL Error: SQLITE_CANTOPEN[14.0]: Database file not found
+Mar  3 09:13:43 epicodus-104.local ManagedClientAgent[24892] <Warning>: No Device Enrollment record info was found
+Mar  3 09:13:46 epicodus-104.local sharingd[24271] <Notice>: 09:13:46.374 : SDStatusMonitor::kStatusWirelessPowerChanged
+Mar  3 09:13:49 epicodus-104.local sharingd[24271] <Notice>: 09:13:49.388 : SDStatusMonitor::kStatusWirelessPowerChanged
+Mar  3 09:13:49 epicodus-104.local sharingd[24271] <Notice>: 09:13:49.678 : SDStatusMonitor::kStatusWirelessPowerChanged
+Mar  3 09:13:49 epicodus-104.local IMRemoteURLConnectionAgent[24896] <Notice>: SACShieldWindowShowing:925: ERROR: NULL response
+Mar  3 09:13:50 epicodus-104.local bird[24274] <Notice>: Network reachability changed to reachable [R -------]
+Mar  3 09:13:56 epicodus-104.local bird[24274] <Notice>: Network really becomes reachable
+Mar  3 09:13:59 epicodus-104.local AirPlayUIAgent[24904] <Debug>: LSExceptions [0x6180000bc980] loaded
+Mar  3 09:14:10 epicodus-104.local AirPlayUIAgent[24904] <Debug>: LSExceptions [0x6180000bc980] unloaded
+Mar  3 09:19:04 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>: notification observer: com.apple.iChat   notification: __CFNotification 0x7fefeaf488b0 {name = _NSDoNotDisturbEnabledNotification}
+Mar  3 09:19:04 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>:    NC Disabled: NO
+Mar  3 09:19:04 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>:   DND Enabled: YES
+Mar  3 09:19:04 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>: Updating enabled: NO   (Topics: (null))
+Mar  3 09:29:01 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>: notification observer: com.apple.iChat   notification: __CFNotification 0x7fefead17240 {name = _NSDoNotDisturbDisabledNotification}
+Mar  3 09:29:01 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>:    NC Disabled: NO
+Mar  3 09:29:01 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>:   DND Enabled: NO
+Mar  3 09:29:01 epicodus-104.local identityservicesd[24278] <Warning>: <IMMacNotificationCenterManager: 0x7fefeaf57320>: Updating enabled: YES   (Topics: (
+	))
+Mar  3 09:29:56 epicodus-104.local Google Chrome Helper[25253] <Debug>: LSExceptions [0x7f9e8b702be0] loaded
+Mar  3 09:29:58 epicodus-104.local Google Chrome Helper[25256] <Debug>: LSExceptions [0x7fd541e06620] loaded
+Mar  3 09:30:06 epicodus-104.local Google Chrome Helper[25253] <Debug>: LSExceptions [0x7f9e8b702be0] unloaded
+Mar  3 09:32:03 epicodus-104.local Google Chrome Helper[25300] <Debug>: LSExceptions [0x7f9e49603e90] loaded
+Mar  3 09:32:05 epicodus-104.local Google Chrome Helper[25302] <Debug>: LSExceptions [0x7f80aa70f890] loaded
+Mar  3 09:32:16 epicodus-104.local Google Chrome Helper[25302] <Debug>: LSExceptions [0x7f80aa70f890] unloaded
+Mar  3 09:33:29 epicodus-104.local Dock[24267] <Debug>: LSExceptions [0x6100000bb840] loaded
+Mar  3 09:33:29 epicodus-104.local Terminal[25333] <Debug>: LSExceptions [0x6000000b6500] loaded
+Mar  3 09:33:39 epicodus-104.local Dock[24267] <Debug>: LSExceptions [0x6100000bb840] unloaded
+Mar  3 09:33:40 epicodus-104.local Terminal[25333] <Debug>: LSExceptions [0x6000000b6500] unloaded
+Mar  3 09:37:46 epicodus-104.local Google Chrome Helper[25429] <Debug>: LSExceptions [0x7fa8f2c4d030] loaded
+Mar  3 09:37:48 epicodus-104.local Google Chrome Helper[25431] <Debug>: LSExceptions [0x7ff948d13d10] loaded
+Mar  3 09:37:55 epicodus-104.local Google Chrome Helper[25432] <Debug>: LSExceptions [0x7f8339e2c050] loaded
+Mar  3 09:37:56 epicodus-104 fontd[24280] <Notice>: BUG in libdispatch client: dispatch_mig_server: mach_msg() failed (ipc/send) invalid memory - 0x1000000c
+Mar  3 09:37:56 epicodus-104.local Google Chrome Helper[25432] <Error>: CoreText CopyFontsForRequest received mig IPC error (FFFFFFFFFFFFFECC) from font server
+Mar  3 09:37:57 --- last message repeated 5 times ---
+Mar  3 09:37:57 epicodus-104.local Google Chrome Helper[25434] <Debug>: LSExceptions [0x7fb362618770] loaded
+Mar  3 09:37:58 epicodus-104.local Google Chrome Helper[25434] <Error>: CoreText CopyFontsForRequest received mig IPC error (FFFFFFFFFFFFFECC) from font server
+Mar  3 09:38:08 --- last message repeated 1 time ---
+Mar  3 09:38:08 epicodus-104.local Google Chrome Helper[25434] <Debug>: LSExceptions [0x7fb362618770] unloaded
+Mar  3 09:43:47 epicodus-104.local ManagedClientAgent[25550] <Warning>: No Device Enrollment record info was found
+Mar  3 09:48:37 epicodus-104.local GoogleSoftwareUpdateAgent[25655] <Debug>: LSExceptions [0x21077e0] loaded
+Mar  3 09:52:07 epicodus-104.local findNames[25729] <Debug>: LSExceptions [0x7fc1f3e0ce40] loaded
+Mar  3 09:54:26 epicodus-104.local Atom Helper[25776] <Debug>: LSExceptions [0x7f9c5b6028b0] loaded
+Mar  3 09:54:37 epicodus-104.local Atom Helper[25776] <Debug>: LSExceptions [0x7f9c5b6028b0] unloaded
+Mar  3 09:55:37 epicodus-104 Atom[24398] <Error>: assertion failed: 14C109: libxpc.dylib + 97940 [876216DC-D5D3-381E-8AF9-49AE464E5107]: 0x89
+Mar  3 09:56:15 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 09:56:45 --- last message repeated 2 times ---
