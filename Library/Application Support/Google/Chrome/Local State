@@ -30,7 +30,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1425405570.730858,
+            "active_time": 1425408267.124697,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_26",
             "background_apps": false,
             "is_ephemeral": false,
@@ -45,6 +45,30 @@
       "last_active_profiles": [ "Default" ],
       "last_used": "Default"
    },
+   "protocol_handler": {
+      "excluded_schemes": {
+         "afp": true,
+         "data": true,
+         "disk": true,
+         "disks": true,
+         "file": true,
+         "hcp": true,
+         "javascript": true,
+         "mailto": false,
+         "ms-help": true,
+         "news": false,
+         "nntp": true,
+         "shell": true,
+         "snews": false,
+         "vbscript": true,
+         "view-source": true,
+         "vnd": {
+            "ms": {
+               "radio": true
+            }
+         }
+      }
+   },
    "rappor": {
       "cohort_seed": 140,
       "last_daily_sample": "13069874745642881",
@@ -58,7 +82,7 @@
    "uninstall_metrics": {
       "installation_date2": "1425401130",
       "launch_count": "1",
-      "page_load_count": "96",
+      "page_load_count": "158",
       "uptime_sec": "60"
    },
    "user_experience_metrics": {
@@ -77,10 +101,10 @@
          "exited_cleanly": false,
          "extension_renderer_crash_count": 0,
          "incomplete_session_end_count": 0,
-         "last_timestamp_sec": "1425405633",
+         "last_timestamp_sec": "1425408332",
          "launch_count": 0,
          "launch_time_sec": "1425401130",
-         "page_load_count": 82,
+         "page_load_count": 144,
          "plugin_stats2": [ {
             "crashes": 0,
             "instances": 0,

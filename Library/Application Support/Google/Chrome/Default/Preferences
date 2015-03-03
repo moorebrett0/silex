@@ -10,11 +10,11 @@
       "last_known_google_url": "https://www.google.com/",
       "window_placement": {
          "always_on_top": false,
-         "bottom": 1360,
-         "left": 194,
+         "bottom": 1338,
+         "left": 42,
          "maximized": false,
-         "right": 1798,
-         "top": 61,
+         "right": 1646,
+         "top": 39,
          "work_area_bottom": 1366,
          "work_area_left": 0,
          "work_area_right": 2560,
@@ -23,17 +23,17 @@
    },
    "countryid_at_install": 21843,
    "data_reduction": {
-      "daily_original_length": [  ],
-      "daily_original_length_via_data_reduction_proxy": [  ],
-      "daily_original_length_with_data_reduction_proxy_enabled": [  ],
-      "daily_received_length": [  ],
-      "daily_received_length_https_with_data_reduction_proxy_enabled": [  ],
-      "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [  ],
-      "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [  ],
-      "daily_received_length_unknown_with_data_reduction_proxy_enabled": [  ],
-      "daily_received_length_via_data_reduction_proxy": [  ],
-      "daily_received_length_with_data_reduction_proxy_enabled": [  ],
-      "last_update_date": "0",
+      "daily_original_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "4154992" ],
+      "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "4154992" ],
+      "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_unknown_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "daily_received_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
+      "last_update_date": "13069843200000000",
       "statistics_prefs_migrated": true
    },
    "default_apps_install_state": 2,
@@ -581,8 +581,8 @@
          }
       }
    },
-   "http_original_content_length": "0",
-   "http_received_content_length": "0",
+   "http_original_content_length": "4154992",
+   "http_received_content_length": "4154992",
    "intl": {
       "accept_languages": "en-US,en"
    },
@@ -604,11 +604,6 @@
                   "probability": 0.08,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 3,
-                  "6": 24
-               },
                "supports_spdy": true
             },
             "clients1.google.com:443": {
@@ -617,11 +612,6 @@
                   "probability": 0.08,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
-               },
                "supports_spdy": true
             },
             "clients2.google.com:443": {
@@ -629,11 +619,6 @@
                   "port": 443,
                   "probability": 0.08,
                   "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
                },
                "supports_spdy": true
             },
@@ -650,11 +635,6 @@
                   "probability": 0.08,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 32,
-                  "6": 0
-               },
                "supports_spdy": true
             },
             "fonts.googleapis.com:80": {
@@ -669,11 +649,6 @@
                   "port": 443,
                   "probability": 0.08,
                   "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100,
-                  "5": 34,
-                  "6": 0
                },
                "supports_spdy": true
             },
@@ -690,11 +665,6 @@
                   "probability": 0.08,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 60,
-                  "6": 6
-               },
                "supports_spdy": true
             },
             "ssl.google-analytics.com:443": {
@@ -705,8 +675,8 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 8,
-                  "6": 3
+                  "5": 32,
+                  "6": 0
                },
                "supports_spdy": true
             },
@@ -716,11 +686,6 @@
                   "probability": 0.08,
                   "protocol_str": "quic"
                },
-               "settings": {
-                  "4": 100,
-                  "5": 17,
-                  "6": 11
-               },
                "supports_spdy": true
             },
             "www.google-analytics.com:443": {
@@ -728,11 +693,6 @@
                   "port": 443,
                   "probability": 0.08,
                   "protocol_str": "quic"
-               },
-               "settings": {
-                  "4": 100,
-                  "5": 12,
-                  "6": 1
                },
                "supports_spdy": true
             },
@@ -751,22 +711,12 @@
                },
                "settings": {
                   "4": 100,
-                  "5": 46,
+                  "5": 32,
                   "6": 0
                },
                "supports_spdy": true
             },
-            "www.gstatic.com:443": {
-               "alternate_protocol": {
-                  "port": 443,
-                  "probability": 0.08,
-                  "protocol_str": "quic"
-               }
-            },
-            "www.learnhowtoprogram.com:443": {
-               "supports_spdy": true
-            },
-            "www.youtube.com:443": {
+            "www.googleapis.com:443": {
                "alternate_protocol": {
                   "port": 443,
                   "probability": 0.08,
@@ -776,6 +726,25 @@
                   "4": 100,
                   "5": 32,
                   "6": 0
+               },
+               "supports_spdy": true
+            },
+            "www.gstatic.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.08,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": true
+            },
+            "www.learnhowtoprogram.com:443": {
+               "supports_spdy": true
+            },
+            "www.youtube.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "probability": 0.08,
+                  "protocol_str": "quic"
                },
                "supports_spdy": true
             },
