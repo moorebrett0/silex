@@ -561,3 +561,15 @@ Mar  3 12:04:54 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd b
 Mar  3 12:05:05 --- last message repeated 2 times ---
 Mar  3 12:05:05 epicodus-104.local Atom Helper[28285] <Debug>: LSExceptions [0x7f9e08c2b000] unloaded
 Mar  3 12:14:01 epicodus-104.local ManagedClientAgent[28495] <Warning>: No Device Enrollment record info was found
+Mar  3 12:21:10 epicodus-104.local findNames[28661] <Debug>: LSExceptions [0x7fe60853a360] loaded
+Mar  3 12:21:50 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 12:22:12 --- last message repeated 2 times ---
+Mar  3 12:22:12 epicodus-104.local Atom Helper[28681] <Debug>: LSExceptions [0x7ffc53703090] loaded
+Mar  3 12:22:12 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 12:22:23 --- last message repeated 2 times ---
+Mar  3 12:22:23 epicodus-104.local Atom Helper[28681] <Debug>: LSExceptions [0x7ffc53703090] unloaded
+Mar  3 12:24:44 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 12:25:14 --- last message repeated 2 times ---
+Mar  3 12:27:27 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 12:27:27 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 12:27:57 --- last message repeated 1 time ---
