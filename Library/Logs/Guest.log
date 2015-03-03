@@ -530,3 +530,34 @@ Mar  3 10:27:11 epicodus-104.local bird[24274] <Notice>: Network really becomes 
 Mar  3 10:31:24 epicodus-104.local Remote Desktop Message[26581] <Debug>: LSExceptions [0x7ff7b87055b0] loaded
 Mar  3 10:31:35 epicodus-104.local Remote Desktop Message[26581] <Debug>: LSExceptions [0x7ff7b87055b0] unloaded
 Mar  3 10:43:51 epicodus-104.local ManagedClientAgent[26840] <Warning>: No Device Enrollment record info was found
+Mar  3 10:47:23 epicodus-104.local GoogleSoftwareUpdateAgent[26914] <Debug>: LSExceptions [0x222610] loaded
+Mar  3 10:47:51 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 10:48:21 --- last message repeated 2 times ---
+Mar  3 10:51:26 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 10:51:26 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 10:51:56 --- last message repeated 1 time ---
+Mar  3 10:53:41 epicodus-104.local findNames[27062] <Debug>: LSExceptions [0x7fb843f06330] loaded
+Mar  3 10:54:20 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 10:54:50 --- last message repeated 2 times ---
+Mar  3 10:58:54 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 10:58:54 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 10:59:24 --- last message repeated 1 time ---
+Mar  3 11:00:00 epicodus-104.local SubmitDiagInfo[27163] <Notice>: Triggering diganostics messages cleanup
+Mar  3 11:10:03 epicodus-104.local QuickLookSatellite[27315] <Warning>: CGSConnectionByID: 0 is not a valid connection ID.
+Mar  3 11:10:03 epicodus-104.local QuickLookSatellite[27315] <Warning>: Invalid Connection ID 0
+Mar  3 11:10:03 epicodus-104.local QuickLookSatellite[27315] <Debug>: LSExceptions [0x7fe458c20c70] loaded
+Mar  3 11:10:03 epicodus-104.local QuickLookSatellite[27315] <Warning>: CGSConnectionByID: 0 is not a valid connection ID.
+Mar  3 11:10:08 --- last message repeated 1 time ---
+Mar  3 11:10:08 epicodus-104.local QuickLookSatellite[27315] <Warning>: In -[NSApplication(NSQuietSafeQuit) _updateCanQuitQuietlyAndSafely], _LSSetApplicationInformationItem(NSCanQuitQuietlyAndSafely) returned error -50
+Mar  3 11:10:14 epicodus-104.local QuickLookSatellite[27315] <Debug>: LSExceptions [0x7fe458c20c70] unloaded
+Mar  3 11:10:15 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 11:10:45 --- last message repeated 2 times ---
+Mar  3 11:13:55 epicodus-104.local ManagedClientAgent[27385] <Warning>: No Device Enrollment record info was found
+Mar  3 11:43:58 epicodus-104.local ManagedClientAgent[27894] <Warning>: No Device Enrollment record info was found
+Mar  3 11:46:06 epicodus-104.local GoogleSoftwareUpdateAgent[27940] <Debug>: LSExceptions [0x4011d0] loaded
+Mar  3 11:56:57 epicodus-104.local Google Chrome Helper[28128] <Debug>: LSExceptions [0x7fd33bd1f990] loaded
+Mar  3 12:04:54 epicodus-104.local Atom Helper[28285] <Debug>: LSExceptions [0x7f9e08c2b000] loaded
+Mar  3 12:04:54 epicodus-104.local Atom[24398] <Debug>: Connection to sharingd became invalid
+Mar  3 12:05:05 --- last message repeated 2 times ---
+Mar  3 12:05:05 epicodus-104.local Atom Helper[28285] <Debug>: LSExceptions [0x7f9e08c2b000] unloaded
+Mar  3 12:14:01 epicodus-104.local ManagedClientAgent[28495] <Warning>: No Device Enrollment record info was found
